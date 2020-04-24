@@ -48,6 +48,10 @@ We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECS
 - CAGNet-L (NASNet Large backbone): [[pre-trained model]](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing
 ) - [[saliency maps]]()
 
+### Qualitative Comparison
+
+![image](https://github.com/Mehrdad-Noori/CAGNet/blob/master/figures/qualitative.jpg)
+
 ### Any problems?
 
 Please feel free to contact me, or raise an issue if you encounter any problems.
