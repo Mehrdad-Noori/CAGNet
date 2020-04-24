@@ -34,7 +34,7 @@ You can also download and use [our pre-trained models](#pre-trained-models--pre-
 
 5- Evaluation code
 
-You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different salinecy measures.
+You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different saliency measures such as E-measure, Weighted F-measure, MAE, PR curve ...
 
 ### 
 
