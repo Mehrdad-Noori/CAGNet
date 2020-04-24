@@ -36,9 +36,6 @@ You can also download and use [our pre-trained models](#pre-trained-models--pre-
 
 You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different salinecy measures 
 
-6- Any problems?
-
-Please feel free to contact me, or raise an issue if you encounter any problems.
 ### 
 
 
@@ -50,6 +47,10 @@ We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECS
 - CAGNet-M (NASNet Mobile backbone): [[pre-trained model]](https://drive.google.com/drive/folders/13inkoc0kj5lbX0EphWgfSweRX1uqWQ3A?usp=sharing) - [[saliency maps]]()
 - CAGNet-L (NASNet Large backbone): [[pre-trained model]](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing
 ) - [[saliency maps]]()
+
+### Any problems?
+
+Please feel free to contact me, or raise an issue if you encounter any problems.
 
 ### Citation
 ```
