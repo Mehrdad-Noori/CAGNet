@@ -27,7 +27,7 @@ The backbone_model can be one of the following options: `VGG16`, `ResNet50`, `NA
 
 4- To generate saliency maps:
 ```
-python train.py --model '/path/to/trained/model' --input_dir /path/to/input/images/directory --save_dir 'save'
+python predict.py --model '/path/to/trained/model' --input_dir /path/to/input/images/directory --save_dir 'save'
 ```
 You can also download and use [our pre-trained models](#pre-trained-models--pre-computed-saliency-maps)
 
