@@ -42,11 +42,10 @@ You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-
 ### Pre-trained models & pre-computed saliency maps
 We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECSSD, DUT-OMRON, PASCAL-S, and HKU-IS datasets.
 
-- CAGNet-V (VGG16 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1V8L5x5FjDrBU04uueVnHYJi7W8E8KGdN?usp=sharing) - [[saliency maps]]()
-- CAGNet-R (ResNet50 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1a763tL98Z3DUmpl3BisoRh5FWafaV4i1?usp=sharing) - [[saliency maps]]()
-- CAGNet-M (NASNet Mobile backbone): [[pre-trained model]](https://drive.google.com/drive/folders/13inkoc0kj5lbX0EphWgfSweRX1uqWQ3A?usp=sharing) - [[saliency maps]]()
-- CAGNet-L (NASNet Large backbone): [[pre-trained model]](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing
-) - [[saliency maps]]()
+- CAGNet-V (VGG16 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1V8L5x5FjDrBU04uueVnHYJi7W8E8KGdN?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1T2qB-axQOSXPT2XOQ_zfBFDdIlIbgpsf)
+- CAGNet-R (ResNet50 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1a763tL98Z3DUmpl3BisoRh5FWafaV4i1?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1YIJTPShV93PvNvz-LZP4NMVbwbFNHBBM)
+- CAGNet-M (NASNet Mobile backbone): [[pre-trained model]](https://drive.google.com/drive/folders/13inkoc0kj5lbX0EphWgfSweRX1uqWQ3A?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1T3W-lvQpqJrD8JzfQm4K2_PQ4caOBWir)
+- CAGNet-L (NASNet Large backbone): [[pre-trained model]](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1C-lP99h4W_0Gx1QKQ9HkiX8xhP38Hb7p)
 
 ### Quantitative Comparison
 
