@@ -32,7 +32,7 @@ python train.py --model '/path/to/trained/model' --input_dir /path/to/input/imag
 You can also download and use [our pre-trained models](#pre-trained-models--pre-computed-saliency-maps)
 
 
-7- Evaluation code
+5- Evaluation code
 
 You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different salinecy measures 
 
