@@ -18,7 +18,7 @@ cd CAGNet
 2- If you want to train the model, download the following dataset and unzip it into `data` folder.
 - [DUTS Dataset: Training](http://saliencydetection.net/duts/)
 
-3- To Run the training, set the arguments or use the default settings: 
+3- To run the training, set the arguments or use the default settings: 
 
 ```
 python train.py --backbone_model 'ResNet50' --batch_size 10 --save_dir 'save'
@@ -34,13 +34,13 @@ You can also download and use [our pre-trained models](#pre-trained-models--pre-
 
 5- Evaluation code
 
-You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different salinecy measures 
+You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-Toolbox) to compute different salinecy measures.
 
 ### 
 
 
 ### Pre-trained models & pre-computed saliency maps
-We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECSSD, DUT-OMRON, PASCAL-S, and HKU-IS datasets
+We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECSSD, DUT-OMRON, PASCAL-S, and HKU-IS datasets.
 
 - CAGNet-V (VGG16 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1V8L5x5FjDrBU04uueVnHYJi7W8E8KGdN?usp=sharing) - [[saliency maps]]()
 - CAGNet-R (ResNet50 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1a763tL98Z3DUmpl3BisoRh5FWafaV4i1?usp=sharing) - [[saliency maps]]()
