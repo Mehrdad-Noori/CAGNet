@@ -29,7 +29,7 @@ The backbone_model can be one of the following options: `VGG16`, `ResNet50`, `NA
 ```
 python train.py --model '/path/to/trained/model' --input_dir /path/to/input/images/directory --save_dir 'save'
 ```
-You can also download and use [our trained models](#Pre-trained-models-&-pre-computed-saliency-maps)
+You can also download and use [our pre-trained models](#pre-trained-models--pre-computed-saliency-maps)
 
 
 7- Evaluation code
