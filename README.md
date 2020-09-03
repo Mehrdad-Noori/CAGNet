@@ -42,10 +42,10 @@ You can use [this toolbox](https://github.com/Mehrdad-Noori/Saliency-Evaluation-
 ### Pre-trained models & pre-computed saliency maps
 We provide the pre-trained model and pre-computed saliency maps for DUTS-TE, ECSSD, DUT-OMRON, PASCAL-S, and HKU-IS datasets.
 
-- CAGNet-V (VGG16 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1V8L5x5FjDrBU04uueVnHYJi7W8E8KGdN?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1T2qB-axQOSXPT2XOQ_zfBFDdIlIbgpsf)
-- CAGNet-R (ResNet50 backbone): [[pre-trained model]](https://drive.google.com/drive/folders/1a763tL98Z3DUmpl3BisoRh5FWafaV4i1?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1YIJTPShV93PvNvz-LZP4NMVbwbFNHBBM)
-- CAGNet-M (NASNet Mobile backbone): [[pre-trained model]](https://drive.google.com/drive/folders/13inkoc0kj5lbX0EphWgfSweRX1uqWQ3A?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1T3W-lvQpqJrD8JzfQm4K2_PQ4caOBWir)
-- CAGNet-L (NASNet Large backbone): [[pre-trained model]](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing) - [[saliency maps]](https://drive.google.com/open?id=1C-lP99h4W_0Gx1QKQ9HkiX8xhP38Hb7p)
+- CAGNet-V (VGG16 backbone) - model: [GoogleDrive](https://drive.google.com/drive/folders/1V8L5x5FjDrBU04uueVnHYJi7W8E8KGdN?usp=sharing), [baidu](https://pan.baidu.com/s/1OlSel8a7eKmh-rMFUyz91A) -  saliency maps: [GoogleDrive](https://drive.google.com/open?id=1T2qB-axQOSXPT2XOQ_zfBFDdIlIbgpsf), [baidu](https://pan.baidu.com/s/1MWGO7d6vPFqFulqElW6f1g)
+- CAGNet-R (ResNet50 backbone) - model: [GoogleDrive](https://drive.google.com/drive/folders/1a763tL98Z3DUmpl3BisoRh5FWafaV4i1?usp=sharing), [baidu](https://pan.baidu.com/s/1MGj-69e4qnONPZ1XiEbSFA) - saliency maps: [GoogleDrive](https://drive.google.com/open?id=1YIJTPShV93PvNvz-LZP4NMVbwbFNHBBM), [baidu](https://pan.baidu.com/s/1nbXaUCsDc_zz6nn69HFWzA)
+- CAGNet-M (NASNet Mobile backbone) - model: [GoogleDrive](https://drive.google.com/drive/folders/13inkoc0kj5lbX0EphWgfSweRX1uqWQ3A?usp=sharing), [baidu](https://pan.baidu.com/s/1PRQTOB_YhAMAnK2v28-hPA) - saliency maps: [GoogleDrive](https://drive.google.com/open?id=1T3W-lvQpqJrD8JzfQm4K2_PQ4caOBWir), [baidu](https://pan.baidu.com/s/19P_DuUVvGfyWieQkOu3gGw)
+- CAGNet-L (NASNet Large backbone) - model: [GoogleDrive](https://drive.google.com/drive/folders/12mo-8qYsDSLkzPAGHydbgW0Ibmr2rm1K?usp=sharing), [baidu](https://pan.baidu.com/s/1XxKrJeeBf7bz7UmpbRglzg) - saliency maps: [GoogleDrive](https://drive.google.com/open?id=1C-lP99h4W_0Gx1QKQ9HkiX8xhP38Hb7p), [baidu](https://pan.baidu.com/s/1jSryA9BFI7-Ee3h5xiiqIw)
 
 ### Quantitative Comparison
 
